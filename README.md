@@ -16,11 +16,15 @@ Books:
 -Data Structures and Algorithms Made Easy In Java  
 Projects:  
 -Incremental improvements to Macho Squad  
+-SyncUp
 Self-Study:  
 -Experimenting with image caching, resizing, etc without use of libraries (usually done with Glide, Picasso, or Ion)  
+-Learning Dagger 2
 
 
 Commentary:  
+11-16-16 - I've been spending most of my time working on a new project, so not much commentary on reading, but I did want to mention to ConstraintLayouts are SO cool.  And that learning Dagger 2 feels like searching for a needle in a swamp.  Every aspect is just deeply confusing.  
+
 11-1-16 - Finished Grokking Algorithms. A lot of the content was reasonably low level, but I'll admit that it helped me understand a few concepts that had previously gone over my head. Very clear explanations, I was impressed by the authors ability to break down concepts.  
 
 10-29-16 - I've started a book called Grokking Algorithms. It has a very clear manner of explaining concepts, but the target audience is a little below where I'm at. I'm definitely going to be recommending it to some friends, but I wind up skimming past a lot of unnecessary detail about basic stuff. Still, there's good stuff in there. And it's written in Python, so I'm learning some syntax for things I otherwise could have only implemented in Java. I am really looking forward to getting back into Python, but I have so much to learn before I can afford to.  
