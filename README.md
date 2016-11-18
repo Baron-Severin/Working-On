@@ -16,13 +16,17 @@ Books:
 -Data Structures and Algorithms Made Easy In Java  
 Projects:  
 -Incremental improvements to Macho Squad  
--SyncUp
+-SyncUp  
 Self-Study:  
 -Experimenting with image caching, resizing, etc without use of libraries (usually done with Glide, Picasso, or Ion)  
--Learning Dagger 2
+-Learning Dagger 2  
+Courses:  
+-Udemy - Architect Android apps with MVP, Dagger, Retrofit & RxJava  
 
 
 Commentary:  
+11-17-16 - After about a week of struggling with Dagger, I've started a Udemy course that claims to teach it.  Fingers crossed!  
+
 11-16-16 - I've been spending most of my time working on a new project, so not much commentary on reading, but I did want to mention to ConstraintLayouts are SO cool.  And that learning Dagger 2 feels like searching for a needle in a swamp.  Every aspect is just deeply confusing.  
 
 11-1-16 - Finished Grokking Algorithms. A lot of the content was reasonably low level, but I'll admit that it helped me understand a few concepts that had previously gone over my head. Very clear explanations, I was impressed by the authors ability to break down concepts.  
