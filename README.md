@@ -14,6 +14,7 @@ Courses:
 Working on:  
 Books:  
 -Data Structures and Algorithms Made Easy In Java  
+-Programming Interviews Exposed  
 Projects:  
 -Incremental improvements to Macho Squad  
 -SyncUp  
@@ -25,6 +26,8 @@ Courses:
 
 
 Commentary:  
+11-24-16 - I'm about to interview with a longshot company, and on their advice I've picked up a book called Programming Interviews Exposed.  I really like it so far.  It doesn't have as much content as Cracking the Coding Interview, but each question is discussed at length.  I definitely feel like I'm getting a lot out of it.  
+
 11-17-16 - After about a week of struggling with Dagger, I've started a Udemy course that claims to teach it.  Fingers crossed!  
 
 11-16-16 - I've been spending most of my time working on a new project, so not much commentary on reading, but I did want to mention to ConstraintLayouts are SO cool.  And that learning Dagger 2 feels like searching for a needle in a swamp.  Every aspect is just deeply confusing.  
