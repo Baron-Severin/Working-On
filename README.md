@@ -2,8 +2,8 @@ Since September 2016
 
 Finished:  
 Books:  
--Reactive Programming with RxJava (O'Reilly) 
--The Principles of Object-Oriented Javascript 
+-Reactive Programming with RxJava (O'Reilly)  
+-The Principles of Object-Oriented Javascript  
 -Head First Android  
 -Head First Java  
 -Head First Design Patterns  
